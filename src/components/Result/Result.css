@@ -1,0 +1,16 @@
+.result-wrap {
+	max-width: 50%;
+	margin: 30px auto 0 auto;
+	text-align: center;
+}
+
+.weather-card {
+	max-width: 50%;
+	margin: 0 auto;
+	border: 1px solid blue;
+}
+
+ul {
+	margin-top: 20px;
+	padding: 0;
+}

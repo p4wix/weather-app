@@ -1,0 +1,17 @@
+.selection-wrap {
+	display: flex;
+	justify-content: center;
+	min-width: 50%;
+	max-height: 100vh;
+	margin-top: 10px;
+}
+
+.select-field {
+	font-size: 24px;
+	padding: 5px;
+}
+.searchButton {
+	display: block;
+	font-size: 24px;
+	margin-left: 10px;
+}
