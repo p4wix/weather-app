@@ -29,6 +29,7 @@ const Result = ({ data }) => {
 	return (
 		<>
 			<div className="result-wrap">
+				<h3>Weather for {myCity.name}</h3>
 				<p>Local time: {date}</p>
 				<p>Sunrice hour: {sunriceTime}</p>
 				<p>Sunset hour: {sunsetTime}</p>
