@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import Item from "./Item/Item";
 
 import "./Result.css";
@@ -24,7 +24,6 @@ const Result = ({ data }) => {
 		}
 	};
 
-	//filtracja tablicy na elementy 0, 8, 16, 24, 36
 	const filteredArr = myList.filter((item, idx) => idx % 8 === 2);
 
 	return (

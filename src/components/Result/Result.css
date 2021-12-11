@@ -1,7 +1,7 @@
 .result-wrap {
 	max-width: 50%;
 	margin: 30px auto 0 auto;
-	text-align: center;
+	/*text-align: center;*/
 }
 
 .weather-card {
@@ -13,4 +13,8 @@
 ul {
 	margin-top: 20px;
 	padding: 0;
+}
+
+img {
+	width: 65px;
 }
